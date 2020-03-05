@@ -1,8 +1,19 @@
-# 说明
-- 使用全国地图，先要注册地图
-- node_modules\echarts\map\js\china.js第45行可以看到已经注册了china地图
-- 则中国地图只需引入即可，不需要再次注册。
-- 全国疫情实时地图
-- https://voice.baidu.com/act/newpneumonia/newpneumonia/?from=osari_pc_3
+# vue-map
 
+## Project setup
+```
+npm install
+```
 
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).

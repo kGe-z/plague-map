@@ -1,8 +1,8 @@
 <template>
   <div id="app">
     <div id="nav">
-      <router-link to="/">累计确诊</router-link> |
-      <router-link to="/about">疫情动态</router-link>
+      <router-link to="/">Home</router-link> |
+      <router-link to="/about">About</router-link>
     </div>
     <router-view/>
   </div>
